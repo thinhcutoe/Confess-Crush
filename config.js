@@ -1,11 +1,8 @@
 const CONFIG = {
     titleWeb: "Thịnh siêu cấp vip pro",
     introTitle: 'Gửi cậu đóa <333',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    introDesc: `Từ rất lâu rồi tớ cóa đìu mún nói <3333`,
+    btnIntro: 'Ấn zô đây đii <3333',
     title: 'Làm Ny tớ nhaaaaaa 🥰',
     desc: 'Thoát ra là đồng ý nhóeeeeeeeee ',
     btnYes: 'Thích lắm <33',
