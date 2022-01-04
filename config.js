@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "HIHI",
-    introTitle: 'test chứ dell có ny',
+    titleWeb: "Thịnh siêu cấp vip pro",
+    introTitle: 'Gửi cậu đóa <333',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
